@@ -46,4 +46,3 @@ Screenshoot
 
 
 # Tugas6
-# Tugas6
